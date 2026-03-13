@@ -1,0 +1,9 @@
+streamlit
+markitdown[all]           # conversão PDF → Markdown (Microsoft)
+sentence-transformers      # para embeddings (se usar modelo local via Python)
+faiss-cpu                  # banco vetorial
+openai                     # cliente para LM Studio (API compatível)
+python-dotenv
+pypdf                       # fallback se markitdown falhar
+langchain                   # opcional, para chunking
+
