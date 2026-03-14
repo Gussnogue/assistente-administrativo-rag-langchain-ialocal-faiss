@@ -1,5 +1,12 @@
 # 📄 Assistente Administrativo RAG com IA Local
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-red)](https://streamlit.io)
+[![LM Studio](https://img.shields.io/badge/LM%20Studio-Local-orange)](https://lmstudio.ai)
+[![sentence-transformers](https://img.shields.io/badge/sentence--transformers-nomic--embed--text--v1.5-green)](https://www.sbert.net)
+[![FAISS](https://img.shields.io/badge/FAISS-Index-blueviolet)](https://github.com/facebookresearch/faiss)
+[![LangChain](https://img.shields.io/badge/LangChain-Pipeline-purple)](https://www.langchain.com)
+
 Um sistema de **RAG (Retrieval-Augmented Generation)** que processa documentos PDF e responde perguntas em linguagem natural. O pipeline inclui conversão para Markdown (MarkItDown), segmentação de texto, embeddings com **nomic-embed-text-v1.5**, indexação vetorial com **FAISS** e geração de respostas via **Hermes 3 3B** (LM Studio). Tudo rodando **100% offline**, com total privacidade e controle dos seus dados.
 
 * * *
