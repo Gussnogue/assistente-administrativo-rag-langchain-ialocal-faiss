@@ -83,10 +83,3 @@ Um sistema de **RAG (Retrieval-Augmented Generation)** que processa documentos P
    ```bash
    streamlit run app.py
 
-### Licença
-Este projeto está licenciado sob a MIT License. Veja o arquivo LICENSE para mais detalhes.
-
-### 🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-Azitech-GustavoNogueira
